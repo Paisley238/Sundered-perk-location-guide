@@ -8,7 +8,7 @@
 
 .perk-card {
     background-color: #1a1a1a;
-    border: 1px solid #cdad5d;
+    border: none;
     color: white;
     display: flex;
     justify-content: center;
@@ -23,18 +23,6 @@
 }
 .perk-card {
     position: relative;
-}
-
-.perk-button {
-    background: none;
-    border: 2px solid red !important;
-    cursor: pointer;
-    padding: 0;
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .perk-content {
